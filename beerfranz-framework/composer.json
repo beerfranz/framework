@@ -1,0 +1,7 @@
+{
+	"name" : "beerfranz/framework",
+	"description" : "minimalist PHP framework",
+	"require" : {
+		"php": "^5.3.3 || ^7.0"
+	}
+}
